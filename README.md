@@ -4,12 +4,11 @@
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
-2. [Installation](#installation)
-3. [Running the App](#running-the-app)
-4. [Building the App](#building-the-app)
-5. [Dependencies](#key-dependencies)
-6. [Contributing](#contributing)
-7. [License](#license)
+2. [Prerequisites](#prerequisites)
+3. [Environment Setup](#environment-setup)
+4. [Dependencies](#key-dependencies)
+5. [Contributing](#contributing)
+6. [License](#license)
 
 ## Getting Started
 
