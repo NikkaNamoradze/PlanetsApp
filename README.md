@@ -7,8 +7,6 @@
 2. [Prerequisites](#prerequisites)
 3. [Environment Setup](#environment-setup)
 4. [Dependencies](#key-dependencies)
-5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Getting Started
 
