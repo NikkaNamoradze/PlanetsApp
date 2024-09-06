@@ -1,6 +1,6 @@
 # Trainers Attendee
 
-**Trainers Attendee** is a mobile application built with React Native to manage attendees for various training sessions. It allows trainers to view, add, and manage participants efficiently.
+**Trainers Attendee is an app that allows users to explore and attend events from all over the world. By signing up, users can choose their favorite event topics and discover events that match their interests. Whether you're looking for professional development, fitness sessions, or personal growth workshops, Trainers Attendee helps you connect with the right events and join communities that inspire you.
 
 ## Table of Contents
 1. [Getting Started](#getting-started)
